@@ -26,3 +26,4 @@ Bikesharing programs are cost-friendly and great solutions for improving congest
 
 ## Sources:
 * Python, Pandas, Tableau
+* NYC citibike trip data: https://ride.citibikenyc.com/system-data
