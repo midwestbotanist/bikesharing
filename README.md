@@ -1,4 +1,5 @@
 # bikesharing
+Tableau Public page: https://public.tableau.com/app/profile/rachel1064
 ## Background:
 
 Bikesharing companies have been popping up in cities across the US. This has been a lucrative business as it helps to alleviate the need for vehicle travel - an issue in cities with large populations due to the amount of congestion the traffic creates on roads/streets, particularly during morning and evening rush hours. Aside from improving traffic conditions by helping to remove the number of cars driving daily, this also can prove to be much cheaper transport for residents as it removes the costs for vehicular upkeep (fuel, carwash, insurance, parking, etc...). 
@@ -15,9 +16,6 @@ The purpose of this analysis is to analyze the pros/cons of creating a bikeshari
 1) Change trip duration to a datetime format
 2) Create visualizations for the trip analysis
 3) Create a story and report for the final presentation (to be presented to the investors)
-
-
-Tableau Public page: https://public.tableau.com/app/profile/rachel1064
 
 
 ## Conclusions:
