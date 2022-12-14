@@ -17,28 +17,6 @@ The purpose of this analysis is to analyze the pros/cons of creating a bikeshari
 2) Create visualizations for the trip analysis
 3) Create a story and report for the final presentation (to be presented to the investors)
 
-## Results:
-
-### 1) The following visualization shows the tyipcal trip duration with number of trips in a breakdown by gender during peak hours. As can be seen here and the following results, male users are the most active users. In fact, the overall usage averages out to follow the way male users take their bike trips. 
-
-![Deliverable3_NYC_FinalPresentation_Story](https://user-images.githubusercontent.com/101941048/207474717-87d08613-a73f-482d-b980-7db227f41179.png)
-
-### 2) Based upon the following visualization, it is interesting to note that male and female non-subscribers (customers) are not heavy users, nor does their amount of usage differ much from each other. However, male subscribers take trips significantly more than female subscribers due. Between this and peak hours of usage, this suggests that male subscribers most often take trips to and from work. This is a trend that also suggests true for female subscribers, but overall they make up a much smaller portion of riders. For both men and women, Wednesday is the lighest day of use overall, while Thursday is the heaviest day of use. This would suggest a look into other events in the city and work practices to see why this occurs. 
-
-![Deliverable3_NYC_FinalPresentation_Story _Weekday_Gender_Breakdown](https://user-images.githubusercontent.com/101941048/207474731-29a68781-a606-45ca-9fcb-de0b576139bc.png)
-
-### 3) As seen below, the peak times in the morning are between 7-10am, while the peak times in the evening are 3-7pm. Both are general commute times. It is important to know peak hours of use as bikes inevitably breakdown and will need to be repaired/serviced at a time they are less likely to be needed. Peak hours of use are important to know because a business must have enough extra bikes at stations to be able to cover all likely users when bikes have been taken away for repairing. I appears Wednesday during morning and afternoon commute happens to be one of the best times to conduct repairs, as well as early hours of Sunday and Monday morning.
-
-![Deliverable3_NYC_FinalPresentation_Peak_Hours](https://user-images.githubusercontent.com/101941048/207474745-01a5f6cf-3faa-4164-a838-be3b94c52b01.png)
-
-### 4) Below is a map depicting the top starting and ending locations. The data tells us that the top starting and ending locations happen to be essentially the same. This is good to know because it is likely the same users commuting to and from those stations leaving the bikes, which also indicates where bikes noted to need repair will likely be. This allows a business to more efficiently develop routes for their workers to check on/service bikes. Additionally, this is very important as the stations with the heaviest usage will need the most bikes - which means keeping the station stocked with enough bikes will keep the users happy and more likely to continue business.
-
-![Deliverable3_NYC_FinalPresentation_Start_End_Locations](https://user-images.githubusercontent.com/101941048/207474782-e1bf54c2-fafa-4e8b-bdc9-d6d0d0131116.png)
-
-
-## Conclusions:
-
-There are several conclusions that can be drawn from the results, of which several have been stated above. Here the main conclusions will be emphasized and future suggestions will be listed.
 
 ## Results:
 
